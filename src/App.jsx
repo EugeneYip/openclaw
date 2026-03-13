@@ -1233,9 +1233,9 @@ export default function OpenClawGuide() {
             }}
           >
             <p style={{ fontSize: "0.85rem", color: "var(--c-text-muted)", lineHeight: 1.7 }}>
-              OpenClaw Guide — Comprehensive reference from beginner to expert.
+              OpenClaw Guide
               <br />
-              Built with care. Reviewed for accuracy. Designed to be read.
+              © 2026 EugeneYip.com All Rights Reserved. 
             </p>
           </footer>
         </div>
